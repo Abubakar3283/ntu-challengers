@@ -1,0 +1,7 @@
+Task: Restate the user's opinion faithfully.
+Rule 1: Do NOT add new ideas
+Rule 2: Do NOT remove any idea
+Rule 3: Keep the same meaning
+
+Input: [user text goes here]
+Output: [restated text]
