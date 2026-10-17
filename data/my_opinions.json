@@ -1,0 +1,57 @@
+[
+  {
+    "case_id": "001",
+    "original": "I think maybe AI will take away jobs someday, but I am not really sure about it.",
+    "type": "short_sentence",
+    "topic": "Artificial Intelligence",
+    "components": {
+      "uncertainty": "I think, maybe, not really sure",
+      "emotion": "worried",
+      "confidence": "low"
+    }
+  },
+  {
+    "case_id": "002",
+    "original": "Social media is kind of bad for young people I guess, but it also has some good sides.",
+    "type": "short_sentence",
+    "topic": "Social Media",
+    "components": {
+      "uncertainty": "kind of, I guess",
+      "emotion": "confused",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "003",
+    "original": "War is just wrong, people die and it is terrible, I strongly feel this.",
+    "type": "short_sentence",
+    "topic": "War",
+    "components": {
+      "uncertainty": "none",
+      "emotion": "angry",
+      "confidence": "high"
+    }
+  },
+  {
+    "case_id": "004",
+    "original": "Online education is probably ok but maybe not as good as real classes for most students.",
+    "type": "short_sentence",
+    "topic": "Online Education",
+    "components": {
+      "uncertainty": "probably, maybe",
+      "emotion": "neutral",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "005",
+    "original": "Climate change is definitely a serious problem but I do not know what ordinary people can do about it.",
+    "type": "short_sentence",
+    "topic": "Climate Change",
+    "components": {
+      "uncertainty": "I do not know",
+      "emotion": "helpless",
+      "confidence": "medium"
+    }
+  }
+]
