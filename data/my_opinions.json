@@ -54,4 +54,115 @@
       "confidence": "medium"
     }
   }
+},
+  {
+    "case_id": "006",
+    "original": "I feel like governments are not doing enough about poverty, but I am not sure what the solution is.",
+    "type": "short_sentence",
+    "topic": "Poverty",
+    "components": {
+      "uncertainty": "I feel like, not sure",
+      "emotion": "frustrated",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "007",
+    "original": "Technology is probably making people more lonely even though it connects them.",
+    "type": "short_sentence",
+    "topic": "Technology",
+    "components": {
+      "uncertainty": "probably",
+      "emotion": "sad",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "008",
+    "original": "I strongly believe animals should have rights just like humans do.",
+    "type": "short_sentence",
+    "topic": "Animal Rights",
+    "components": {
+      "uncertainty": "none",
+      "emotion": "passionate",
+      "confidence": "high"
+    }
+  },
+  {
+    "case_id": "009",
+    "original": "Fast food is bad for health I think, but sometimes people have no other choice.",
+    "type": "short_sentence",
+    "topic": "Health",
+    "components": {
+      "uncertainty": "I think",
+      "emotion": "concerned",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "010",
+    "original": "Maybe rich countries should help poor countries more, but I do not know if it actually works.",
+    "type": "short_sentence",
+    "topic": "Global Aid",
+    "components": {
+      "uncertainty": "maybe, I do not know",
+      "emotion": "doubtful",
+      "confidence": "low"
+    }
+  },
+  {
+    "case_id": "011",
+    "original": "Nuclear energy is probably safer than people think but I am not totally confident about this.",
+    "type": "short_sentence",
+    "topic": "Energy",
+    "components": {
+      "uncertainty": "probably, not totally confident",
+      "emotion": "unsure",
+      "confidence": "low"
+    }
+  },
+  {
+    "case_id": "012",
+    "original": "I think immigration is generally good for a country but it needs proper management.",
+    "type": "short_sentence",
+    "topic": "Immigration",
+    "components": {
+      "uncertainty": "I think, generally",
+      "emotion": "neutral",
+      "confidence": "medium"
+    }
+  },
+  {
+    "case_id": "013",
+    "original": "Mental health is just as important as physical health but people do not take it seriously enough.",
+    "type": "short_sentence",
+    "topic": "Mental Health",
+    "components": {
+      "uncertainty": "none",
+      "emotion": "concerned",
+      "confidence": "high"
+    }
+  },
+  {
+    "case_id": "014",
+    "original": "I guess space exploration is interesting but maybe we should fix Earth problems first.",
+    "type": "short_sentence",
+    "topic": "Space Exploration",
+    "components": {
+      "uncertainty": "I guess, maybe",
+      "emotion": "conflicted",
+      "confidence": "low"
+    }
+  },
+  {
+    "case_id": "015",
+    "original": "Homework is probably useful for some students but I think it causes too much stress most of the time.",
+    "type": "short_sentence",
+    "topic": "Education",
+    "components": {
+      "uncertainty": "probably, I think",
+      "emotion": "stressed",
+      "confidence": "medium"
+    }
+  }
 ]
